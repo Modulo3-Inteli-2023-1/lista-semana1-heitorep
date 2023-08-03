@@ -11,7 +11,7 @@ def soma_dos_aninhados(num):
         soma += sum(lista)
     return soma
 
-# Teste a sua função aqui (caso ache necessário)
+# Teste a sua função aqui (caso ache necessário);
 
 
 

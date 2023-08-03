@@ -31,7 +31,6 @@ def multiplas_operacoes(a, b):
 
 
 # Teste a sua função aqui (caso ache necessário)
-# Chamando a função e obtendo os resultados
 print(multiplas_operacoes(2, 0))
 
 

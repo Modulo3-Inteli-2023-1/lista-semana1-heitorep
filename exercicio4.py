@@ -20,7 +20,7 @@ def tem_duplicados(lista):
 
 
 
-# Teste a sua função aqui (caso ache necessário)
+# Teste a sua função aqui (caso ache necessário);
 
 
 

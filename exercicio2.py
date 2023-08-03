@@ -15,7 +15,7 @@ def cumulativo(lista):
 
 
 
-# Teste a sua função aqui (caso ache necessário)
+# Teste a sua função aqui (caso ache necessário);
 lista = [3, 3, 3, 3]
 resultado = cumulativo(lista)
 print(resultado) 
